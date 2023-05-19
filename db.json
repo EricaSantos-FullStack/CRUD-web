@@ -8,22 +8,7 @@
     {
       "nome": "joanadarc@email.com",
       "email": "Joana",
-      "id": 2
-    },
-    {
-      "nome": "joanadarc@email.com",
-      "email": "Joana",
-      "id": 3
-    },
-    {
-      "nome": "joanadarc@email.com",
-      "email": "Joana",
       "id": 4
-    },
-    {
-      "nome": "joanadarc@email.com",
-      "email": "Joana",
-      "id": 5
     },
     {
       "nome": "Maria",
@@ -31,24 +16,24 @@
       "id": 6
     },
     {
-      "nome": "Maria",
-      "email": "maria-silva@email.com",
+      "nome": "Maria Joaquina",
+      "email": "maria-joaquina@email.com",
       "id": 7
     },
     {
-      "nome": "teste",
-      "email": "teste@email.com",
-      "id": 8
-    },
-    {
-      "nome": "teste",
-      "email": "teste@email.com",
+      "nome": "Joaquim",
+      "email": "joaquim@email.com",
       "id": 9
     },
     {
-      "nome": "lala",
-      "email": "lala@email.com",
+      "nome": "pato",
+      "email": "fu@email.com",
       "id": 10
+    },
+    {
+      "nome": "Moema",
+      "email": "moema@email.com",
+      "id": 11
     }
   ]
 }
